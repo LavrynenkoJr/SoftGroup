@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SoftGroup</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="prosluhovuvanya">Прослуховування</string>
+    <string name="victorina">Вікторина</string>
+    <string name="zadanie">Яке зображення відповідає звуку?</string>
+    <string name="tvarunu">Тварини</string>
+    <string name="transport">Транспорт</string>
+</resources>
